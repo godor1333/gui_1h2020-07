@@ -25,12 +25,13 @@ SECRET_KEY = 'v4o7ehbwi$j@7+s=16*mkt13o0745p^83*=&pk7+h%875y4#yg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.api.com', '0.0.0.0', 'localhost']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'user.apps.UserConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -78,9 +79,9 @@ DATABASES = {
         # 'ENGINE': 'django.db.backends.sqlite3',
         # 'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myapp',
-        'USER': 'myuser',
-        'PASSWORD': '12344321',
+        'NAME': 'sanek_db',
+        'USER': 'sasha',
+        'PASSWORD': 'sasha',
         'HOST': 'localhost',
         'PORT': '',
     }
