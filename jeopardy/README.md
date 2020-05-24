@@ -54,9 +54,6 @@ Linux:
 * qmake (or qmake-qt4)
 * make
 
-Windows:
-* [Follow me](https://github.com/chlange/jeopardy/wiki/Windows)
-
 Play
 ----
 
@@ -81,7 +78,3 @@ Colored game field:
 
 ![](http://i.imgur.com/AwaO8gd.png)
 
-Bugs? Feature requests? Have some Beer?
-------------------------------------------
-
-Don't hesitate to contact me!
