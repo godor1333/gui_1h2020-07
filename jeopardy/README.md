@@ -1,12 +1,4 @@
-Jeopardy
-========
 
-* Author:	Christian Lange (Christian_Lange@hotmail.com)
-* Date:		06. February 2014
-* Version:	0.9.6 Stable
-* Github:	https://github.com/chlange/jeopardy
-* Homepage:	http://ganz-sicher.net/chlange
-* License:	New BSD License (3-clause BSD license)
 
 Description
 -----------
