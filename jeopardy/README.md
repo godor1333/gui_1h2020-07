@@ -1,10 +1,5 @@
 
 
-Description
------------
-
-* Implementation of well known Jeopardy! quiz show in C++ with Qt.
-
 Features
 --------
 
@@ -13,22 +8,6 @@ Features
 * colors
 * names
 * choose own key to answer (Press key on game field to check functionality)
-
-
-
-Todo
-----
-
-* better score system
-* smoother design
-* ...little here and there
-
-Software used
--------------
-
-* gcc 4.7.0
-* Qt 4.8.1
-* phonon
 
 Install
 -------
