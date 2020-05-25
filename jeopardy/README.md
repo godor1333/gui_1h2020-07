@@ -19,9 +19,6 @@ Linux:
 
 Play
 ----
-
-* Edit answers/roundnumber.jrf
-	* see answers/README or wiki for further instructions
 * Choose round to play
 * Enter names, keys and colors of players
 * Select question
